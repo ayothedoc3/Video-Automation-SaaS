@@ -8,7 +8,7 @@ We love your input! We want to make contributing to Video Automation SaaS as eas
 - Proposing new features
 - Becoming a maintainer
 
-## We Develop with Github
+## We Develop with GitHub
 
 We use GitHub to host code, to track issues and feature requests, as well as accept pull requests.
 
